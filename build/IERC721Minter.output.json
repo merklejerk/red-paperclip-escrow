@@ -1,0 +1,19 @@
+{
+	"abi": [
+		{
+			"inputs": [
+				{
+					"internalType": "address",
+					"name": "owner",
+					"type": "address"
+				}
+			],
+			"name": "mintFor",
+			"outputs": [],
+			"stateMutability": "nonpayable",
+			"type": "function"
+		}
+	],
+	"bytecode": "0x",
+	"deployedBytecode": "0x"
+}
